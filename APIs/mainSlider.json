@@ -6,21 +6,24 @@
                 "subTitle": "매일매일 바뀌는",
                 "title": "한국 공식이베이 핫딜",
                 "detail": "전상품 배송비 5천원, 수수료 50% 할인!",
-                "btnUrl": "http://ebay.auction.co.kr/plan/hotdeal"
+                "btnUrl": "http://ebay.auction.co.kr/plan/hotdeal",
+                "color": "#FFDFE4"
             },
             {
                 "url": "//static.itrcomm.com/img/main/banner/2046217756_1562906210.jpg",
                 "subTitle": "미국창고 경유하면 국제운송료 반값!",
                 "title": "묶음배송용 상품 모음",
                 "detail": "저가 다양한 상품라인업!",
-                "btnUrl": "http://ebay.auction.co.kr/plan/hotdeal"
+                "btnUrl": "http://ebay.auction.co.kr/plan/hotdeal",
+                "color": "#FFF045"
             },
             {
                 "url": "//static.itrcomm.com/img/main/banner/1986606025_1561977902.jpg",
                 "subTitle": "이베이 인증 수입명품 중고",
                 "title": "중고명품 마켓",
                 "detail": "믿을수 있는 중고 명품",
-                "btnUrl": "http://ebay.auction.co.kr/plan/hotdeal"
+                "btnUrl": "http://ebay.auction.co.kr/plan/hotdeal",
+                "color": "#03CED5"
             }
         ]
     }
