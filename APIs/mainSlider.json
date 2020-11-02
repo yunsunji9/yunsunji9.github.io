@@ -1,0 +1,20 @@
+{
+    "mainSlider" : {
+        "slide": [
+            {
+                "url": "//static.itrcomm.com/img/main/banner/1221600768_1575337826.jpg",
+                "subTitle": "매일매일 바뀌는",
+                "title": "한국 공식이베이 핫딜",
+                "detail": "전상품 배송비 5천원, 수수료 50% 할인!",
+                "btnUrl": "http://ebay.auction.co.kr/plan/hotdeal"
+            },
+            {
+                "url": "//static.itrcomm.com/img/main/banner/1221600768_1575337826.jpg",
+                "subTitle": "매일매일 바뀌는",
+                "title": "한국 공식이베이 핫딜",
+                "detail": "전상품 배송비 5천원, 수수료 50% 할인!",
+                "btnUrl": "http://ebay.auction.co.kr/plan/hotdeal"
+            }
+        ]
+    }
+}
